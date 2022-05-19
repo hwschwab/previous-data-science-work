@@ -8,3 +8,5 @@ Most of work from NCSSM are simple notebooks, however there are some interesting
 
 I am currently working on updating this repository with all files and datasets used for these documents by looking through old hardrives and computers.
 Files will be updated overtime as more are found.
+
+Note: Much of the Work from High school is rudimentary, and there are easy improvements that can be made
